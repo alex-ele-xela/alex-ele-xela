@@ -7,7 +7,7 @@ A Mathematics Graduate from St. Stephen's College, New Delhi; currently a Post-G
 
 I enjoy helping people tackle problems using data driven solutions, and love working with a team of individuals striving towards the same goal.
 
-##### You can visit my Portfolio page [here][https://alex-ele-xela.github.io/Portfolio/] 
+##### You can visit my Portfolio page [here](https://alex-ele-xela.github.io/Portfolio/)
 <!--
 **alex-ele-xela/alex-ele-xela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
