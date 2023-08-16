@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi, I am Alex Prateek Shankar.👋
+#### Aspiring ML Engineer
 
+I am currently residing in Bengaluru, India.
+
+A Mathematics Graduate from St. Stephen's College, New Delhi; currently a Post-Graduate Data Science student at Christ University, Bengaluru.
+
+I enjoy helping people tackle problems using data driven solutions, and love working with a team of individuals striving towards the same goal.
+
+##### You can visit my Portfolio page [here][https://alex-ele-xela.github.io/Portfolio/] 
 <!--
 **alex-ele-xela/alex-ele-xela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
